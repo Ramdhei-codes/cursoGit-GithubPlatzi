@@ -1,0 +1,4 @@
+Hello, my name is Ramdhei López Arcila, I'm a Colombian Platzi Student
+eager to learn web development. I'm 17 years old.
+
+I'm also studying Systems Engineering at Caldas University in Colombia, but I don't like it a lot
