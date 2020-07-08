@@ -13,6 +13,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    height: calc(100vh - 50px);
 }
 
 .blogposts__post{
@@ -22,4 +23,21 @@ body{
     padding: 8px 7px;
     width: 50%;
     margin: 10px 5px;
+}
+
+.footer{
+    display: flex;
+    font-size: 20px;
+    justify-content: left;
+    height: 50px;
+}
+
+.footer a{
+    margin: 5px 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.footer a:hover{
+    text-decoration: underline;
 }
