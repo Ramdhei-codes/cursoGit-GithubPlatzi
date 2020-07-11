@@ -3,4 +3,14 @@ body{
     margin: 0;
 }
 
+.header{
+    display: flex;
+    justify-content: left;
+    height: 50px;
+    width: 100%;
+}
 
+.header img{
+    height: 40px;
+    margin: 20px 5px 0px  10px;
+}
