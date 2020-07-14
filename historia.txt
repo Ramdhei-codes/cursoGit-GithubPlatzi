@@ -9,4 +9,9 @@ I love Imagine Dragons
 
 Queen is for Master branch
 
+<<<<<<< HEAD
 another change in Master
+=======
+
+change in rebase
+>>>>>>> Change in experimentando
